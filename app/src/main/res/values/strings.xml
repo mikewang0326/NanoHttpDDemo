@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NanoHttpDDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="init_tip">Send the url below to WeChat conversation, or post to WeChat Discover feed. Or convert it to QR code, then scan it in WeChat: </string>
+    <string name="second_activity_tip">This the activity launched by a background service.</string>
+</resources>
